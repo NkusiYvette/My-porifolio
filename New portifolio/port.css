@@ -1,0 +1,128 @@
+
+body{
+    background-color: #FFD9E6;
+   font-size: larger;
+   font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+.bae{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+.link:visited{
+color:  #379CC8;
+}
+.eco{
+    margin-left :200px;;
+}
+.celo{
+    background-color: #379CC8;
+    width: -20px;
+   margin-left:200px;
+ margin-top: 15px;
+}
+.lop{
+    margin-top:15px;
+    margin-left: 200px;
+}
+
+.part3{
+ padding: 20px;
+    height:70px;
+    margin-left:600px;
+}
+   
+
+.pot{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#meta{
+
+    margin-top:80px;
+    display: flex;
+    justify-content: space-around;
+}
+.last{
+    width: 0px;
+    margin-left: 750px;
+}
+.down{
+   width: 100px;
+   margin-left: -39px;
+}
+.mine{
+    display: flex;
+    justify-content: space-between;
+}
+.mas{
+    display: flex;
+    justify-content: space-evenly;
+}
+.new,.mon{
+    margin-top: 100px;
+}
+.prot{
+    justify-content: center;
+    display: flex;
+}
+.main_{
+    align-items: center;
+    margin-left: 300px;
+}
+.exit{
+    border-radius: 30px;
+    background: black;
+    margin-left: 50px;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    width: 100px;
+}
+.main-contact{
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+}
+.prot{
+    border-radius: 5px;
+}
+.radio{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: rgb(253, 253, 253);
+    margin-left: 90px;
+}
+.radio2{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: rgb(162, 158, 158);
+    margin-left: 90px;
+}
+.radio3{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: rgb(85, 85, 84);
+    margin-left: 90px;
+}
+.body{
+    display: flex;
+}
+input{
+    width: -50px;
+    height: 60px;
+}
+input{
+    border: none;
+}
+label{
+    border: none;
+}
